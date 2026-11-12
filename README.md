@@ -1,4 +1,4 @@
-<img src="./profile-header.svg" width="100%" alt="Diego Lutz — AI-assisted development, machine learning and web applications." />
+<img src="./profile-header.svg?v=2" width="100%" alt="Diego Lutz — AI-assisted development, machine learning and web applications." />
 
 <p align="center">
   <a href="#about-me">About me</a> &nbsp; / &nbsp;
