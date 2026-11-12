@@ -57,11 +57,3 @@ Languages and tools used across my projects:
 
 I'm looking for opportunities in **AI training, response evaluation and related work** where I can apply my practical experience with AI tools and software projects.
 
-<details>
-  <summary><strong>GitHub activity & languages</strong></summary>
-  <br />
-  <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diego-lutz&show_icons=true&theme=github_dark&hide_border=true&title_color=aaa5ff&icon_color=aaa5ff&bg_color=0d1117" alt="Diego Lutz's public GitHub activity" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-lutz&layout=compact&theme=github_dark&hide_border=true&title_color=aaa5ff&bg_color=0d1117" alt="Languages in Diego Lutz's public repositories" />
-  </p>
-</details>
