@@ -5,7 +5,6 @@
   <path d="M44 49H1156M44 249H1156" stroke="#292b36"/>
   <g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600" letter-spacing="2.3" fill="#a7a9b9">
     <text x="46" y="30">DIEGO-LUTZ / GITHUB</text>
-    <text x="1154" y="30" text-anchor="end">PERSONAL PROJECTS</text>
   </g>
   <text x="39" y="170" font-family="Arial,Helvetica,sans-serif" font-size="132" font-weight="700" letter-spacing="-8" fill="#f3f3f7">Diego Lutz<tspan fill="#8e8aff">.</tspan></text>
   <text x="47" y="222" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="-.5" fill="#a7a9b9">AI-assisted development · Machine learning · Web applications</text>
