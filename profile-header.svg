@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="284" viewBox="0 0 1200 284" role="img" aria-labelledby="title description">
+  <title id="title">Diego Lutz</title>
+  <desc id="description">AI-assisted development, machine learning and web applications. A black and white typographic header with violet accents.</desc>
+  <rect width="1200" height="284" rx="12" fill="#090a0e"/>
+  <path d="M44 49H1156M44 249H1156" stroke="#292b36"/>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600" letter-spacing="2.3" fill="#a7a9b9">
+    <text x="46" y="30">DIEGO-LUTZ / GITHUB</text>
+    <text x="1154" y="30" text-anchor="end">PERSONAL PROJECTS</text>
+  </g>
+  <text x="39" y="170" font-family="Arial,Helvetica,sans-serif" font-size="132" font-weight="700" letter-spacing="-8" fill="#f3f3f7">Diego Lutz<tspan fill="#8e8aff">.</tspan></text>
+  <text x="47" y="222" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="-.5" fill="#a7a9b9">AI-assisted development · Machine learning · Web applications</text>
+  <path d="M945 80V222" stroke="#373546"/>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" fill="#aaa5ff">
+    <text x="976" y="112">Python</text>
+    <text x="976" y="158">TypeScript</text>
+    <text x="976" y="204">JavaScript</text>
+  </g>
+</svg>
